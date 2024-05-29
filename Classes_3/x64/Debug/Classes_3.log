@@ -1,0 +1,5 @@
+﻿  Classes_3.cpp
+C:\Projects\first\Classes_3\Classes_3.cpp(44,25): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Projects\first\Classes_3\Classes_3.cpp(83,25): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Projects\first\Classes_3\Classes_3.cpp(84,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Classes_3.vcxproj -> C:\Projects\first\Classes_3\x64\Debug\Classes_3.exe
